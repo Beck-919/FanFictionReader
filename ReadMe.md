@@ -1,1 +1,1 @@
-My copy of the now defunct 'FanFiction Reader' android app.
+My copy of the 'FanFiction Reader' android app.
